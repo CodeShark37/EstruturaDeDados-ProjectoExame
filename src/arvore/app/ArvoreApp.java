@@ -58,7 +58,5 @@ public class ArvoreApp {
                     break;
             }
         } while (opcao != 0);
-
-        System.exit(0);
     }
 }
