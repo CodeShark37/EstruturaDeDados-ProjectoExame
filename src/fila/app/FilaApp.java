@@ -16,21 +16,21 @@ public class FilaApp {
         int op = 0, countId = 0, index = 0, pag = 0;
         String titulo, data;
 
-    printer.addDoc(new Documento(1,"Doc1",LocalDate.of(2023, Month.MARCH, 8),6));
-    printer.addDoc(new Documento(2,"Doc2",LocalDate.of(2021, Month.AUGUST, 5),6));
-    printer.addDoc(new Documento(3,"Doc3",LocalDate.of(2023, Month.AUGUST, 5),6));
-    printer.addDoc(new Documento(4,"Doc4",LocalDate.of(2022, Month.FEBRUARY, 8),6));
-    printer.addDoc(new Documento(5,"Doc5",LocalDate.of(2020, Month.JANUARY, 5),6));
-    printer.addDoc(new Documento(6,"Doc6",LocalDate.of(2023, Month.MARCH, 8),6));
-    printer.addDoc(new Documento(7,"Doc7",LocalDate.of(2022, Month.AUGUST, 5),6));
-    printer.addDoc(new Documento(8,"Doc8",LocalDate.of(2022, Month.SEPTEMBER, 5),6));
-    printer.addDoc(new Documento(9,"Doc9",LocalDate.of(2023, Month.FEBRUARY, 8),6));
-    printer.addDoc(new Documento(10,"Doc10",LocalDate.of(2020, Month.JULY, 5),6));
+   /*  printer.addDoc(new Documento(1,"DocExemplo1",LocalDate.of(2023, Month.MARCH, 8),6));
+    printer.addDoc(new Documento(2,"DocExemplo2",LocalDate.of(2021, Month.AUGUST, 5),6));
+    printer.addDoc(new Documento(3,"DocExemplo3",LocalDate.of(2023, Month.AUGUST, 5),6));
+    printer.addDoc(new Documento(4,"DocExemplo4",LocalDate.of(2022, Month.FEBRUARY, 8),6));
+    printer.addDoc(new Documento(5,"DocExemplo5",LocalDate.of(2020, Month.JANUARY, 5),6));
+    printer.addDoc(new Documento(6,"DocExemplo6",LocalDate.of(2023, Month.MARCH, 8),6));
+    printer.addDoc(new Documento(7,"DocExemplo7",LocalDate.of(2022, Month.AUGUST, 5),6));
+    printer.addDoc(new Documento(8,"DocExemplo8",LocalDate.of(2022, Month.SEPTEMBER, 5),6));
+    printer.addDoc(new Documento(9,"DocExemplo9",LocalDate.of(2023, Month.FEBRUARY, 8),6));
+    printer.addDoc(new Documento(10,"DocExemplo10",LocalDate.of(2020, Month.JULY, 5),6));
     printer.addDoc(new Documento(11,"Doc11",LocalDate.of(2023, Month.APRIL, 8),6));
     printer.addDoc(new Documento(12,"Doc12",LocalDate.of(2023, Month.JANUARY, 5),6));
     
       
-      
+       */
         do {
 
             System.out.println("---------------------------------");
